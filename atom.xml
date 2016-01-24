@@ -4,7 +4,7 @@
   <title><![CDATA[The Weight]]></title>
   <link href="http://note.n6e.be//atom.xml" rel="self"/>
   <link href="http://note.n6e.be//"/>
-  <updated>2016-01-16T19:54:47+09:00</updated>
+  <updated>2016-01-24T13:43:05+09:00</updated>
   <id>http://note.n6e.be//</id>
   <author>
     <name><![CDATA[Takuo Kitame]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Anker プレミアムステレオスピーカー Bluetooth 4.0 (A3143)]]></title>
+    <link href="http://note.n6e.be//blog/2016/01/24/anker-bluetooth-premium-speaker-a3143/"/>
+    <updated>2016-01-24T13:07:00+09:00</updated>
+    <id>http://note.n6e.be//blog/2016/01/24/anker-bluetooth-premium-speaker-a3143</id>
+    <content type="html"><![CDATA[<p><a href="https://lh3.googleusercontent.com/-Ab6EfOFCIoY/VqRNaJOflxI/AAAAAAAAedE/w65ow5hUxMU/s800-Ic42/DSC01724.JPG" target="_blank"><img class="right" src="https://lh3.googleusercontent.com/-Ab6EfOFCIoY/VqRNaJOflxI/AAAAAAAAedE/w65ow5hUxMU/s288-Ic42/DSC01724.JPG"></a>
+みなさんこんばんは！<br/>
+音楽、聴いてますか！？<br/>
+今回は、小柄で大変便利なスピーカーであるところの、表題の商品を購入した件についてお知らせです。</p>
+
+<!-- more -->
+
+
+<p>リビングではChromecastつかってAVアンプで音楽を再生したりしているのだが、<br/>
+寝室でもスマートフォンなどに入っている音楽資産を効率的に再生したいという思いがあり、<br/>
+この一見良さそうなスピーカーを購入した次第です。</p>
+
+<p>音質的な印象は低音でかめで、個人的には好きな感触。<br/>
+出力も10Wx2なので、小型にしてはそこそこという感じか。</p>
+
+<p>ユーティリティとしてはBT4.0のほかにミニジャックのAUX、USBによる電源供給、バッテリ駆動とまぁ基本的なスペックで、<br/>
+サイズも小さく、わりと問題ない。</p>
+
+<p>しかしだ。</p>
+
+<p>このスピーカー、ホワイトノイズがものすごい。<br/>
+もしかして初期不良かと思ったりもしたが、いろんなレビューを目にするとどうやら仕様の模様。<br/>
+ともかく、スピーカーをそばにしての再生では耳障りなので無理がある。寝室の枕元に設置など以ての外である。<br/>
+BT経由の再生ではホワイトノイズがのるはまぁしかたのないのかもしれないが、それにしてもひどいのである。</p>
+
+<p>広くて雑な空間、パーティ会場や屋外などでは、価格も手頃だし大変便利かもしれない。<br/>
+しかしながら、当方の用途が寝室設置だったので残念ながらこれはキッチンの側において雑に再生するようにすることにした。</p>
+
+<p>そんなわけで、次回は BOSE SOUNDLINK MINI IIを購入した件について書きます。</p>
+
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=takuojp02-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B015R0MIC0" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Qualcomm IZat のメモリリーク]]></title>
@@ -1392,64 +1432,6 @@ SwapFree:         233728 kB
 
 
 <iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=takuojp02-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B007WTAJTO" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[オーディオテクニカ AT-PHA05BTを買った]]></title>
-    <link href="http://note.n6e.be//blog/2012/08/05/review-at-pha05bt/"/>
-    <updated>2012-08-05T02:47:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2012/08/05/review-at-pha05bt</id>
-    <content type="html"><![CDATA[<p><a href="http://www.amazon.co.jp/dp/B0087BQJUO/takuojp02-22/ref=nosim/" target="_blank"><img class="right" src="https://lh3.googleusercontent.com/-TJH6xcQYckw/UB1nCKMhbfI/AAAAAAAAKfI/KqD5AG8TbPE/s144/AT-BT05.jpeg"></a>
-ソニエリのMW600を落っことして壊してしまったので、代替として<a href="http://www.audio-technica.co.jp/atj/show_model.php?modelId=1536">オーディオテクニカのAT-PHA05BT</a>を買ってみましたのでレビューです。<br/>
-(買ったのはヘッドフォン付きのAT-BT05ですが)</p>
-
-<!-- more -->
-
-
-<p>まず、MW600の何がいけなかったのか。<br/>
-これはもう散々言われていることなのですが、MW600にはホールド(ロック)機能がなく、ちょっとボタンに触れると操作が実行されてしまうという、大変デリケートな機器となっております。<br/>
-また、音量キーがタッチセンサーになっており、これまた大変操作しづらい構造になっています。<br/>
-その他の点については概ね良好でした。</p>
-
-<p>さて、AT-PHA05BTはどうなのか。<br/>
-まず外見から…<br/>
-でかい。MWと比較した画像を載せますが、第一印象でかい、です。<br/>
-まぁアンプも積んでいるようなのでこのサイズは妥当なのかも知れません。
-<a href="https://lh3.googleusercontent.com/-HBpamj2pS2o/UB1S8xCqQFI/AAAAAAAAKdU/-HgGmZkLA6E/s800/DSC_0191.jpg" target="_blank"><img src="https://lh3.googleusercontent.com/-HBpamj2pS2o/UB1S8xCqQFI/AAAAAAAAKdU/-HgGmZkLA6E/s288/DSC_0191.jpg" title="大きさ比較" ></a></p>
-
-<p>MW600で不満とされていた、ホールド機能はついています。<br/>
-また音量キーもちゃんとしたボタンであります。<br/>
-<a href="https://lh5.googleusercontent.com/-mCT9EjMy53g/UB1jRBbvw-I/AAAAAAAAKeU/V79agD7zV08/s800/DSC_0192.jpg" target="_blank"><img src="https://lh5.googleusercontent.com/-mCT9EjMy53g/UB1jRBbvw-I/AAAAAAAAKeU/V79agD7zV08/s288/DSC_0192.jpg"></a><br/>
-ホールドと電源、左に見える□はストラップホール。</p>
-
-<p><a href="https://lh4.googleusercontent.com/-4JRjqo3INUU/UB1jzvrE7bI/AAAAAAAAKes/KYACkGhpT-8/s800/DSC_0193.jpg" target="_blank"><img src="https://lh4.googleusercontent.com/-4JRjqo3INUU/UB1jzvrE7bI/AAAAAAAAKes/KYACkGhpT-8/s288/DSC_0193.jpg"></a><br/>
-ミュージックコントロール関連のキー</p>
-
-<p>その他優位な点としてはペアリング機器を8台まで記憶できる…(MW600は3台)というのがあるのですが、実はAT-PHA05BT側から接続する機器を選べる機能はなく、スマートフォンや携帯電話等ペアリングした相手側から接続をしなくてはなりません。<br/>
-これの良し悪しは人に依りそうですが、MW600ではMW600側から機器を選択できました。</p>
-
-<p>その他の機能はほぼMW600と同等なので特筆すべき点はありません。<br/>
-強いて言えば、ペアリングボタンと充電用のUSBコネクタはカバーで覆われており、それらを使用する場合はカバーをはずさねばなりません。<br/>
-<a href="https://lh5.googleusercontent.com/-HFhOkbEVlZ4/UB3vVhGRmlI/AAAAAAAAKf4/C-Xgx2c0JmA/s800/DSC_0194.jpg" target="_blank"><img src="https://lh5.googleusercontent.com/-HFhOkbEVlZ4/UB3vVhGRmlI/AAAAAAAAKf4/C-Xgx2c0JmA/s288/DSC_0194.jpg"></a></p>
-
-<p>アンプ機能はそれこそ個人で受ける印象は違うでしょう。自分の場合はAndroidのイコライザで十分なので不要かもしれません。</p>
-
-<p>デザイン性と大きさがちょっと不満ですが実用面には影響しないし、なにしろホールドができるので雑に扱っても誤操作しなくてよいです。</p>
-
-<iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=takuojp02-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0065V9TXC" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-
-<iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=takuojp02-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0087BQCHE" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-
-<iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=takuojp02-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0087BQJUO" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-
-<iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=takuojp02-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B003N111Y2" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 
 
