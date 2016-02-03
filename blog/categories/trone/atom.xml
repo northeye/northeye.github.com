@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: trone | The Weight]]></title>
-  <link href="http://note.n6e.be//blog/categories/trone/atom.xml" rel="self"/>
-  <link href="http://note.n6e.be//"/>
-  <updated>2016-02-02T19:11:36+09:00</updated>
-  <id>http://note.n6e.be//</id>
+  <link href="http://note.n6e.be/blog/categories/trone/atom.xml" rel="self"/>
+  <link href="http://note.n6e.be/"/>
+  <updated>2016-02-03T14:21:52+09:00</updated>
+  <id>http://note.n6e.be/</id>
   <author>
     <name><![CDATA[Takuo Kitame]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[nasne のファイルシステムを見てみる]]></title>
-    <link href="http://note.n6e.be//blog/2012/07/19/filesystem-of-nasne/"/>
+    <link href="http://note.n6e.be/blog/2012/07/19/filesystem-of-nasne/"/>
     <updated>2012-07-19T22:52:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2012/07/19/filesystem-of-nasne</id>
+    <id>http://note.n6e.be/blog/2012/07/19/filesystem-of-nasne</id>
     <content type="html"><![CDATA[<p>物理的な分解記事とかよりも面白いと思ったのでちょっとだけnasneの中身をみてました。</p>
 
 <!-- more -->

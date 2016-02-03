@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Network | The Weight]]></title>
-  <link href="http://note.n6e.be//blog/categories/network/atom.xml" rel="self"/>
-  <link href="http://note.n6e.be//"/>
-  <updated>2016-02-02T19:11:36+09:00</updated>
-  <id>http://note.n6e.be//</id>
+  <link href="http://note.n6e.be/blog/categories/network/atom.xml" rel="self"/>
+  <link href="http://note.n6e.be/"/>
+  <updated>2016-02-03T14:21:52+09:00</updated>
+  <id>http://note.n6e.be/</id>
   <author>
     <name><![CDATA[Takuo Kitame]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[さくらのVPS x LXC x IPv6]]></title>
-    <link href="http://note.n6e.be//blog/2015/04/08/sakura-vps-lxc-ipv6/"/>
+    <link href="http://note.n6e.be/blog/2015/04/08/sakura-vps-lxc-ipv6/"/>
     <updated>2015-04-08T15:39:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2015/04/08/sakura-vps-lxc-ipv6</id>
+    <id>http://note.n6e.be/blog/2015/04/08/sakura-vps-lxc-ipv6</id>
     <content type="html"><![CDATA[<p>こんにちは。<br/>
 さくらのVPSで使えていた<a href="http://research.sakura.ad.jp/6rd-trial/">6rdトライアルが3/31で終わってしまいました</a>。</p>
 

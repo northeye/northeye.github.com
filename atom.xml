@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[The Weight]]></title>
-  <link href="http://note.n6e.be//atom.xml" rel="self"/>
-  <link href="http://note.n6e.be//"/>
-  <updated>2016-02-02T19:11:36+09:00</updated>
-  <id>http://note.n6e.be//</id>
+  <link href="http://note.n6e.be/atom.xml" rel="self"/>
+  <link href="http://note.n6e.be/"/>
+  <updated>2016-02-03T14:21:52+09:00</updated>
+  <id>http://note.n6e.be/</id>
   <author>
     <name><![CDATA[Takuo Kitame]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Anker プレミアムステレオスピーカー Bluetooth 4.0 (A3143)]]></title>
-    <link href="http://note.n6e.be//blog/2016/01/24/anker-bluetooth-premium-speaker-a3143/"/>
+    <link href="http://note.n6e.be/blog/2016/01/24/anker-bluetooth-premium-speaker-a3143/"/>
     <updated>2016-01-24T13:07:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2016/01/24/anker-bluetooth-premium-speaker-a3143</id>
+    <id>http://note.n6e.be/blog/2016/01/24/anker-bluetooth-premium-speaker-a3143</id>
     <content type="html"><![CDATA[<p><a href="https://lh3.googleusercontent.com/-Ab6EfOFCIoY/VqRNaJOflxI/AAAAAAAAedE/w65ow5hUxMU/s800-Ic42/DSC01724.JPG" target="_blank"><img class="right" src="https://lh3.googleusercontent.com/-Ab6EfOFCIoY/VqRNaJOflxI/AAAAAAAAedE/w65ow5hUxMU/s288-Ic42/DSC01724.JPG"></a>
 みなさんこんばんは！<br/>
 音楽、聴いてますか！？<br/>
@@ -55,10 +55,10 @@ BT経由の再生ではホワイトノイズがのるはまぁしかたのない
   
   <entry>
     <title type="html"><![CDATA[Qualcomm IZat のメモリリーク]]></title>
-    <link href="http://note.n6e.be//blog/2015/08/24/qualcomm-izat-memory-leak/"/>
+    <link href="http://note.n6e.be/blog/2015/08/24/qualcomm-izat-memory-leak/"/>
     <updated>2015-08-24T23:40:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2015/08/24/qualcomm-izat-memory-leak</id>
-    <content type="html"><![CDATA[<p><a href="http://note.n6e.be//assets/screenshot/QualcommIZat.png" target="_blank"><img class="right" src="http://note.n6e.be//assets/screenshot/QualcommIZat.png" width="240" height="230"></a>
+    <id>http://note.n6e.be/blog/2015/08/24/qualcomm-izat-memory-leak</id>
+    <content type="html"><![CDATA[<p><a href="http://note.n6e.be/assets/screenshot/QualcommIZat.png" target="_blank"><img class="right" src="http://note.n6e.be/assets/screenshot/QualcommIZat.png" width="240" height="230"></a>
 QualcommのSoCにIZatというテクノロジーがあって、これは位置情報の効率化を図るハードウェア支援だそうです。<br/>
 au版のXperia Z3ではこれを有効化できるのですが、どうやらメモリリークが存在するようでした。</p>
 
@@ -66,7 +66,7 @@ au版のXperia Z3ではこれを有効化できるのですが、どうやらメ
 
 
 <p>IZatを有効化するとlowi-serverというのが働き出してどんどんメモリを食っていきます。<br/>
-<img src="http://note.n6e.be//assets/screenshot/lowi-server.png" width="640" height="601">
+<img src="http://note.n6e.be/assets/screenshot/lowi-server.png" width="640" height="601">
 こんな感じです。<br/>
 6日間で366MBになっています。</p>
 
@@ -96,9 +96,9 @@ OFFであれば0.3MB程度しか消費しません。</p>
   
   <entry>
     <title type="html"><![CDATA[さくらのVPS x LXC x IPv6]]></title>
-    <link href="http://note.n6e.be//blog/2015/04/08/sakura-vps-lxc-ipv6/"/>
+    <link href="http://note.n6e.be/blog/2015/04/08/sakura-vps-lxc-ipv6/"/>
     <updated>2015-04-08T15:39:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2015/04/08/sakura-vps-lxc-ipv6</id>
+    <id>http://note.n6e.be/blog/2015/04/08/sakura-vps-lxc-ipv6</id>
     <content type="html"><![CDATA[<p>こんにちは。<br/>
 さくらのVPSで使えていた<a href="http://research.sakura.ad.jp/6rd-trial/">6rdトライアルが3/31で終わってしまいました</a>。</p>
 
@@ -217,10 +217,10 @@ ip6tables v1.4.21: Bad IP address "fe80::2ff:ff:fe00:3%lxcbr0"
   
   <entry>
     <title type="html"><![CDATA[ドメイン名が変わりました]]></title>
-    <link href="http://note.n6e.be//blog/2015/01/09/domain-name-changed/"/>
+    <link href="http://note.n6e.be/blog/2015/01/09/domain-name-changed/"/>
     <updated>2015-01-09T20:52:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2015/01/09/domain-name-changed</id>
-    <content type="html"><![CDATA[<p><img class="right" src="http://note.n6e.be//assets/screenshot/aws-domain-name-registration.png">
+    <id>http://note.n6e.be/blog/2015/01/09/domain-name-changed</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://note.n6e.be/assets/screenshot/aws-domain-name-registration.png">
 ドメインを変更することになりました。<br/>
 新しいドメインは n6e.be です。</p>
 
@@ -243,7 +243,7 @@ ip6tables v1.4.21: Bad IP address "fe80::2ff:ff:fe00:3%lxcbr0"
 新規ドメインの場合は、自動的にDNSのホスティングもRoute53になります。<br/>
 もちろん外のDNSに変更も可能ですが、APIもあるしDDNSもやりやすいだろうと思ってこのまま運用することにしました。<br/>
 費用としては $0.5/zoneに加えて10億クエリまでは $0.4 で、だいたい $1/month で運用できていますし、気になる額でもありません。<br/>
-<img src="http://note.n6e.be//assets/screenshot/aws-route53-price.png"></p>
+<img src="http://note.n6e.be/assets/screenshot/aws-route53-price.png"></p>
 
 <p>DDNSなどに用いるコマンドラインツールは <a href="https://github.com/barnybug/cli53">cli53</a> というPythonツールを使っています。</p>
 
@@ -282,9 +282,9 @@ ip6tables v1.4.21: Bad IP address "fe80::2ff:ff:fe00:3%lxcbr0"
   
   <entry>
     <title type="html"><![CDATA[Anker 3 Micro USB Cables]]></title>
-    <link href="http://note.n6e.be//blog/2014/12/01/anker-3-micro-usb-cables/"/>
+    <link href="http://note.n6e.be/blog/2014/12/01/anker-3-micro-usb-cables/"/>
     <updated>2014-12-01T22:44:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2014/12/01/anker-3-micro-usb-cables</id>
+    <id>http://note.n6e.be/blog/2014/12/01/anker-3-micro-usb-cables</id>
     <content type="html"><![CDATA[<p><img class="right" src="https://lh5.googleusercontent.com/-5_DtA9BE1LQ/VH1j1Pf3N3I/AAAAAAAAUIM/T0rE9Ipyxu8/s288/IMGP1003_1.jpg">
 こんにちは。<br/>
 本日はお手頃なMicroUSBケーブルのご紹介です。</p>
@@ -328,9 +328,9 @@ ip6tables v1.4.21: Bad IP address "fe80::2ff:ff:fe00:3%lxcbr0"
   
   <entry>
     <title type="html"><![CDATA[NETGEAR GS116E]]></title>
-    <link href="http://note.n6e.be//blog/2014/08/07/netgear-gs116e/"/>
+    <link href="http://note.n6e.be/blog/2014/08/07/netgear-gs116e/"/>
     <updated>2014-08-07T22:01:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2014/08/07/netgear-gs116e</id>
+    <id>http://note.n6e.be/blog/2014/08/07/netgear-gs116e</id>
     <content type="html"><![CDATA[<p>VLANを切れる安価なスイッチングハブ NETGEAR GS116E を買ってみた。</p>
 
 <p>PPPoEのセグメントとPrivate LANのセグメントで2つのハブを使っていたのだけれど、機材を減らしたいと思いVLAN設定ができる安めのハブを探していたところ、NETGEAR製品くらいしかなさそうだったので16ポートのこいつを選んだ。</p>
@@ -346,7 +346,7 @@ ip6tables v1.4.21: Bad IP address "fe80::2ff:ff:fe00:3%lxcbr0"
 まぁこれは一度IPアドレスを設定しちゃえば Web UI が使えるようになるので不要ではあるのだが、初期設定時にether portがついたWindowsマシンがないと詰む。</p>
 
 <p>Web UIはこんな感じで、できることはAIRのアプリと同じ。<br/>
-<a href="http://note.n6e.be//assets/screenshot/gs116ev2-web-ui.png" target="_blank"><img class="right" src="http://note.n6e.be//assets/screenshot/gs116ev2-web-ui.png" title="WEB UI" ></a></p>
+<a href="http://note.n6e.be/assets/screenshot/gs116ev2-web-ui.png" target="_blank"><img class="right" src="http://note.n6e.be/assets/screenshot/gs116ev2-web-ui.png" title="WEB UI" ></a></p>
 
 <p>UI的にVLANの設定は若干わかりにくいかも知れない。</p>
 
@@ -403,9 +403,9 @@ LAN内やルーター自身から、ルーターのWANアドレス宛に通信�
   
   <entry>
     <title type="html"><![CDATA[近況]]></title>
-    <link href="http://note.n6e.be//blog/2014/08/06/kinkyo/"/>
+    <link href="http://note.n6e.be/blog/2014/08/06/kinkyo/"/>
     <updated>2014-08-06T17:54:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2014/08/06/kinkyo</id>
+    <id>http://note.n6e.be/blog/2014/08/06/kinkyo</id>
     <content type="html"><![CDATA[<p>近況です。</p>
 
 <p>とくにネタもなかったので放っておいてましたが、最近わりとモノを買うようになったので買ったものレビューでもしていこうかと思います。</p>
@@ -416,9 +416,9 @@ LAN内やルーター自身から、ルーターのWANアドレス宛に通信�
   
   <entry>
     <title type="html"><![CDATA[CyanogenMod で DTCP-IP やパズドラを動かす]]></title>
-    <link href="http://note.n6e.be//blog/2013/07/11/cyanogenmod-dtcp-ip/"/>
+    <link href="http://note.n6e.be/blog/2013/07/11/cyanogenmod-dtcp-ip/"/>
     <updated>2013-07-11T23:49:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2013/07/11/cyanogenmod-dtcp-ip</id>
+    <id>http://note.n6e.be/blog/2013/07/11/cyanogenmod-dtcp-ip</id>
     <content type="html"><![CDATA[<p>CyanogenMod でもパズドラを起動したいとです！！！</p>
 
 <!-- more -->
@@ -668,9 +668,9 @@ boot.img の改変は面倒ですが、手順は決まっているしスクリ�
   
   <entry>
     <title type="html"><![CDATA[LXC コンテナで avahi-daemon を動かす]]></title>
-    <link href="http://note.n6e.be//blog/2013/06/11/avahi-daemon-in-lxc-container/"/>
+    <link href="http://note.n6e.be/blog/2013/06/11/avahi-daemon-in-lxc-container/"/>
     <updated>2013-06-11T16:41:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2013/06/11/avahi-daemon-in-lxc-container</id>
+    <id>http://note.n6e.be/blog/2013/06/11/avahi-daemon-in-lxc-container</id>
     <content type="html"><![CDATA[<p>LXCコンテナが役割ごとに増殖してて、DHCPつかってアドレス振ってると、振られたIPアドレス調べたり色々面倒なのでmDNSでアレしたいなと。</p>
 
 <p>というわけで mDNS であるところの <strong>avahi-daemon</strong> を動かそうとしたんですが動きませんのでメモ。</p>
@@ -740,9 +740,9 @@ boot.img の改変は面倒ですが、手順は決まっているしスクリ�
   
   <entry>
     <title type="html"><![CDATA[ffmpeg で ustream 配信したメモ]]></title>
-    <link href="http://note.n6e.be//blog/2013/05/30/ffmpeg-de-ustream/"/>
+    <link href="http://note.n6e.be/blog/2013/05/30/ffmpeg-de-ustream/"/>
     <updated>2013-05-30T17:26:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2013/05/30/ffmpeg-de-ustream</id>
+    <id>http://note.n6e.be/blog/2013/05/30/ffmpeg-de-ustream</id>
     <content type="html"><![CDATA[<p>どうも。</p>
 
 <p>当方、<a href="http://ustream.tv/channel/northeye">Ustreamで猫カメラ</a>を運用しているのだけれど、FlashMediaEncoderを動かしていたWindowsがとても不安定で廃絶してしまったので、どうしようかと思っていました。<br/>
@@ -931,9 +931,9 @@ v4l2-ctl -L で何ができるかわかります。</p>
   
   <entry>
     <title type="html"><![CDATA[Xperia（TM）ワールド タッチ＆トライ ブロガーミーティングに参加しました(先月)]]></title>
-    <link href="http://note.n6e.be//blog/2013/02/14/xperia-world-touch-try/"/>
+    <link href="http://note.n6e.be/blog/2013/02/14/xperia-world-touch-try/"/>
     <updated>2013-02-14T20:23:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2013/02/14/xperia-world-touch-try</id>
+    <id>http://note.n6e.be/blog/2013/02/14/xperia-world-touch-try</id>
     <content type="html"><![CDATA[<p><img class="right" src="http://farm9.staticflickr.com/8092/8407636657_dd10cb17a9_n_d.jpg">
 明けましておめでとう御座います。<br/>
 もうXperia Zが発売して約一週間が過ぎ、先月のことになってしまいましたがXperia (主にXperia Z)のタッチ＆トライイベントに参加してきましたのでリポートです。</p>
@@ -997,9 +997,9 @@ HTL21のUSB蓋は取れやすい(が、アロンアルファで接着しなお�
   
   <entry>
     <title type="html"><![CDATA[猫にマカロンベッドを買ってあげた]]></title>
-    <link href="http://note.n6e.be//blog/2012/10/23/macaron-bed-for-cats/"/>
+    <link href="http://note.n6e.be/blog/2012/10/23/macaron-bed-for-cats/"/>
     <updated>2012-10-23T23:37:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2012/10/23/macaron-bed-for-cats</id>
+    <id>http://note.n6e.be/blog/2012/10/23/macaron-bed-for-cats</id>
     <content type="html"><![CDATA[<p>そろそろ寒いし、楽天みてたら2012年版とやらが売っていたので買いました。<br/>
 去年はこれ売り切れまくりで全く買えなかったけど買えました。</p>
 
@@ -1027,9 +1027,9 @@ HTL21のUSB蓋は取れやすい(が、アロンアルファで接着しなお�
   
   <entry>
     <title type="html"><![CDATA[iOS6はAVRCP1.3でMW600とかに曲名表示できる]]></title>
-    <link href="http://note.n6e.be//blog/2012/10/19/ios6-avrcp-1-3/"/>
+    <link href="http://note.n6e.be/blog/2012/10/19/ios6-avrcp-1-3/"/>
     <updated>2012-10-19T15:47:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2012/10/19/ios6-avrcp-1-3</id>
+    <id>http://note.n6e.be/blog/2012/10/19/ios6-avrcp-1-3</id>
     <content type="html"><![CDATA[<p>iPhone5にして気がついたのですが、MW600やAT-PHA05BTでの曲名表示が可能になってました。<br/>
 iOS6からかなと思います。便利。<br/>
 <a href="http://farm9.staticflickr.com/8464/8118329335_aa039c13f3_d.jpg" target="_blank"><img src="http://farm9.staticflickr.com/8464/8118329335_aa039c13f3_m_d.jpg"></a></p>
@@ -1049,9 +1049,9 @@ iOS6からかなと思います。便利。<br/>
   
   <entry>
     <title type="html"><![CDATA[Amazon BasicのHDMIケーブル安い]]></title>
-    <link href="http://note.n6e.be//blog/2012/10/17/amazon-basic-hdmi-cable/"/>
+    <link href="http://note.n6e.be/blog/2012/10/17/amazon-basic-hdmi-cable/"/>
     <updated>2012-10-17T15:58:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2012/10/17/amazon-basic-hdmi-cable</id>
+    <id>http://note.n6e.be/blog/2012/10/17/amazon-basic-hdmi-cable</id>
     <content type="html"><![CDATA[<p>安いし品質良さそうだし便利。<br/>
 名のあるメーカー品買うのアホらしい。</p>
 
@@ -1067,9 +1067,9 @@ iOS6からかなと思います。便利。<br/>
   
   <entry>
     <title type="html"><![CDATA[twicca - Evernote プラグイン 1.7.0 release]]></title>
-    <link href="http://note.n6e.be//blog/2012/10/16/twicca-evernote-plugin-1-7-0-release/"/>
+    <link href="http://note.n6e.be/blog/2012/10/16/twicca-evernote-plugin-1-7-0-release/"/>
     <updated>2012-10-16T23:46:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2012/10/16/twicca-evernote-plugin-1-7-0-release</id>
+    <id>http://note.n6e.be/blog/2012/10/16/twicca-evernote-plugin-1-7-0-release</id>
     <content type="html"><![CDATA[<p><a href="https://play.google.com/store/apps/details?id=jp.takuo.android.twicca.plugin.evernote">twicca &ndash; Evernote プラグイン</a> 1.7.0 をリリースしました。<br/>
 2012/11 よりパスワード認証でのサービス提供が終了することに伴い、Evernoteサービスの認証にOAuthを使うようになりました。</p>
 
@@ -1088,9 +1088,9 @@ iOS6からかなと思います。便利。<br/>
   
   <entry>
     <title type="html"><![CDATA[AppleTV買った]]></title>
-    <link href="http://note.n6e.be//blog/2012/10/14/appletv/"/>
+    <link href="http://note.n6e.be/blog/2012/10/14/appletv/"/>
     <updated>2012-10-14T15:13:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2012/10/14/appletv</id>
+    <id>http://note.n6e.be/blog/2012/10/14/appletv</id>
     <content type="html"><![CDATA[<p>AppleTV(っていうかAirPlay)最高！すごい！素晴らしい！みたいなエントリにしようと思ったんですがね。<br/>
 というのも使っていたdockコネクタスピーカーTSX-70がiPhone5にしてから使えなくなったんでね、AppleTV買って満足してたんですよ。</p>
 
@@ -1120,9 +1120,9 @@ AppleTVもまぁ安いしAirPlayミラーリングとか面白いしホームシ
   
   <entry>
     <title type="html"><![CDATA[アウトレイジビヨンド観た]]></title>
-    <link href="http://note.n6e.be//blog/2012/10/06/outrage-beyond/"/>
+    <link href="http://note.n6e.be/blog/2012/10/06/outrage-beyond/"/>
     <updated>2012-10-06T23:15:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2012/10/06/outrage-beyond</id>
+    <id>http://note.n6e.be/blog/2012/10/06/outrage-beyond</id>
     <content type="html"><![CDATA[<p>珍しく初日に観てきました。<br/>
 初日のせいか、いやいや同時に公開になったまどかマギカのせいか、新宿バルト9は大変混雑していました。</p>
 
@@ -1139,9 +1139,9 @@ AppleTVもまぁ安いしAirPlayミラーリングとか面白いしホームシ
   
   <entry>
     <title type="html"><![CDATA[iPhone5 購入]]></title>
-    <link href="http://note.n6e.be//blog/2012/10/03/iphone5/"/>
+    <link href="http://note.n6e.be/blog/2012/10/03/iphone5/"/>
     <updated>2012-10-03T02:27:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2012/10/03/iphone5</id>
+    <id>http://note.n6e.be/blog/2012/10/03/iphone5</id>
     <content type="html"><![CDATA[<p><img class="right" src="https://lh5.googleusercontent.com/-XzUB7CssnKw/UGsmquVL_6I/AAAAAAAAK1U/i4KGsQbY9ik/s288/IMGP0664.JPG">
 iPhone5に殺された者たちがいる。</p>
 
@@ -1186,9 +1186,9 @@ auでもよかったんだけど、すでにau3回線あるしそのうち一個
   
   <entry>
     <title type="html"><![CDATA[IS12Sのswap]]></title>
-    <link href="http://note.n6e.be//blog/2012/09/21/is12s-swap/"/>
+    <link href="http://note.n6e.be/blog/2012/09/21/is12s-swap/"/>
     <updated>2012-09-21T01:01:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2012/09/21/is12s-swap</id>
+    <id>http://note.n6e.be/blog/2012/09/21/is12s-swap</id>
     <content type="html"><![CDATA[<p>前回のエントリでIS12Sでswapだわーいって嬉々として書いたのだが、vm.swappiness=60だとはっきりいって使いものにならないということをこの1ヶ月ほどで体感してきた。</p>
 
 <p>というわけで、vm.swappiness=20 くらいがよいと思います。</p>
@@ -1197,9 +1197,9 @@ auでもよかったんだけど、すでにau3回線あるしそのうち一個
   
   <entry>
     <title type="html"><![CDATA[au IS12Sでスワップを有効にする [要root]]]></title>
-    <link href="http://note.n6e.be//blog/2012/08/07/is12s-enable-swap/"/>
+    <link href="http://note.n6e.be/blog/2012/08/07/is12s-enable-swap/"/>
     <updated>2012-08-07T00:14:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2012/08/07/is12s-enable-swap</id>
+    <id>http://note.n6e.be/blog/2012/08/07/is12s-enable-swap</id>
     <content type="html"><![CDATA[<p>IS12S をICS にアップデートしてからというもの、メモリが足りなくていささか不便になってきました。<br/>
 そこでスワップを導入してみることにします。</p>
 

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: memo | The Weight]]></title>
-  <link href="http://note.n6e.be//blog/categories/memo/atom.xml" rel="self"/>
-  <link href="http://note.n6e.be//"/>
-  <updated>2016-02-02T19:11:36+09:00</updated>
-  <id>http://note.n6e.be//</id>
+  <link href="http://note.n6e.be/blog/categories/memo/atom.xml" rel="self"/>
+  <link href="http://note.n6e.be/"/>
+  <updated>2016-02-03T14:21:52+09:00</updated>
+  <id>http://note.n6e.be/</id>
   <author>
     <name><![CDATA[Takuo Kitame]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[チーズケーキ]]></title>
-    <link href="http://note.n6e.be//blog/2012/05/07/make-cheese-cake/"/>
+    <link href="http://note.n6e.be/blog/2012/05/07/make-cheese-cake/"/>
     <updated>2012-05-07T15:22:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2012/05/07/make-cheese-cake</id>
+    <id>http://note.n6e.be/blog/2012/05/07/make-cheese-cake</id>
     <content type="html"><![CDATA[<p><img class="right <a" src="href="http://farm9.staticflickr.com/8281/7731045244_074e3a3faf_m.jpg">http://farm9.staticflickr.com/8281/7731045244_074e3a3faf_m.jpg</a>"></p>
 
 <p>わりと上手くできたので自分用のメモ。</p>

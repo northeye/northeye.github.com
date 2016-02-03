@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: root | The Weight]]></title>
-  <link href="http://note.n6e.be//blog/categories/root/atom.xml" rel="self"/>
-  <link href="http://note.n6e.be//"/>
-  <updated>2016-02-02T19:11:36+09:00</updated>
-  <id>http://note.n6e.be//</id>
+  <link href="http://note.n6e.be/blog/categories/root/atom.xml" rel="self"/>
+  <link href="http://note.n6e.be/"/>
+  <updated>2016-02-03T14:21:52+09:00</updated>
+  <id>http://note.n6e.be/</id>
   <author>
     <name><![CDATA[Takuo Kitame]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[CyanogenMod で DTCP-IP やパズドラを動かす]]></title>
-    <link href="http://note.n6e.be//blog/2013/07/11/cyanogenmod-dtcp-ip/"/>
+    <link href="http://note.n6e.be/blog/2013/07/11/cyanogenmod-dtcp-ip/"/>
     <updated>2013-07-11T23:49:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2013/07/11/cyanogenmod-dtcp-ip</id>
+    <id>http://note.n6e.be/blog/2013/07/11/cyanogenmod-dtcp-ip</id>
     <content type="html"><![CDATA[<p>CyanogenMod でもパズドラを起動したいとです！！！</p>
 
 <!-- more -->

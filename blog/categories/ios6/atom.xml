@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: iOS6 | The Weight]]></title>
-  <link href="http://note.n6e.be//blog/categories/ios6/atom.xml" rel="self"/>
-  <link href="http://note.n6e.be//"/>
-  <updated>2016-02-02T19:11:36+09:00</updated>
-  <id>http://note.n6e.be//</id>
+  <link href="http://note.n6e.be/blog/categories/ios6/atom.xml" rel="self"/>
+  <link href="http://note.n6e.be/"/>
+  <updated>2016-02-03T14:21:52+09:00</updated>
+  <id>http://note.n6e.be/</id>
   <author>
     <name><![CDATA[Takuo Kitame]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[iOS6はAVRCP1.3でMW600とかに曲名表示できる]]></title>
-    <link href="http://note.n6e.be//blog/2012/10/19/ios6-avrcp-1-3/"/>
+    <link href="http://note.n6e.be/blog/2012/10/19/ios6-avrcp-1-3/"/>
     <updated>2012-10-19T15:47:00+09:00</updated>
-    <id>http://note.n6e.be//blog/2012/10/19/ios6-avrcp-1-3</id>
+    <id>http://note.n6e.be/blog/2012/10/19/ios6-avrcp-1-3</id>
     <content type="html"><![CDATA[<p>iPhone5にして気がついたのですが、MW600やAT-PHA05BTでの曲名表示が可能になってました。<br/>
 iOS6からかなと思います。便利。<br/>
 <img class="<a" src="href="http://farm9.staticflickr.com/8464/8118329335_aa039c13f3_m_d.jpg">http://farm9.staticflickr.com/8464/8118329335_aa039c13f3_m_d.jpg</a>" title="<a href=&#34;http://farm9.staticflickr.com/8464/8118329335_aa039c13f3_d.jpg&#34;>http://farm9.staticflickr.com/8464/8118329335_aa039c13f3_d.jpg</a>" alt="<a href=&#34;http://farm9.staticflickr.com/8464/8118329335_aa039c13f3_d.jpg&#34;>http://farm9.staticflickr.com/8464/8118329335_aa039c13f3_d.jpg</a>"></p>
