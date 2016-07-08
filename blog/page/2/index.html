@@ -9,8 +9,7 @@
   <meta name="author" content="Takuo Kitame">
 
   
-  <meta name="description" content="どうも。 当方、Ustreamで猫カメラを運用しているのだけれど、FlashMediaEncoderを動かしていたWindowsがとても不安定で廃絶してしまったので、どうしようかと思っていました。
-それと、常時稼動マシンは減らしたい。 &hellip;">
+  <meta name="description" content="LXCコンテナが役割ごとに増殖してて、DHCPつかってアドレス振ってると、振られたIPアドレス調べたり色々面倒なのでmDNSでアレしたいなと。 というわけで mDNS であるところの avahi-daemon を動かそうとしたんですが動きませんのでメモ。 ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -87,6 +86,49 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h2 class="entry-title"><a href="/blog/2013/06/11/avahi-daemon-in-lxc-container/">LXC コンテナで avahi-daemon を動かす</a></h2>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-06-11T16:41:00+09:00" pubdate data-updated="true">Jun 11<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>LXCコンテナが役割ごとに増殖してて、DHCPつかってアドレス振ってると、振られたIPアドレス調べたり色々面倒なのでmDNSでアレしたいなと。</p>
+
+<p>というわけで mDNS であるところの <strong>avahi-daemon</strong> を動かそうとしたんですが動きませんのでメモ。</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2013/06/11/avahi-daemon-in-lxc-container/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
   
   
     <article>
@@ -480,44 +522,6 @@ iPhone5に殺された者たちがいる。</p>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h2 class="entry-title"><a href="/blog/2012/09/21/is12s-swap/">IS12Sのswap</a></h2>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-09-21T01:01:00+09:00" pubdate data-updated="true">Sep 21<span>st</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>前回のエントリでIS12Sでswapだわーいって嬉々として書いたのだが、vm.swappiness=60だとはっきりいって使いものにならないということをこの1ヶ月ほどで体感してきた。</p>
-
-<p>というわけで、vm.swappiness=20 くらいがよいと思います。</p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/3/">&larr; Older</a>
@@ -539,6 +543,10 @@ iPhone5に殺された者たちがいる。</p>
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2016/07/09/umeshu/">梅酒 DAY 1</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2016/02/16/bose-soundlink-mini-ii/">BOSE SOUNDLINK mini Bluetooth speaker II</a>
       </li>
     
@@ -552,10 +560,6 @@ iPhone5に殺された者たちがいる。</p>
     
       <li class="post">
         <a href="/blog/2015/04/08/sakura-vps-lxc-ipv6/">さくらのVPS x LXC x IPv6</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/01/09/domain-name-changed/">ドメイン名が変わりました</a>
       </li>
     
   </ul>
