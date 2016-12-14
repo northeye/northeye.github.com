@@ -4,7 +4,7 @@
   <title><![CDATA[The Weight]]></title>
   <link href="http://note.n6e.be/atom.xml" rel="self"/>
   <link href="http://note.n6e.be/"/>
-  <updated>2016-07-09T01:48:21+09:00</updated>
+  <updated>2016-12-14T14:34:38+09:00</updated>
   <id>http://note.n6e.be/</id>
   <author>
     <name><![CDATA[Takuo Kitame]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[運転免許を取得したよ]]></title>
+    <link href="http://note.n6e.be/blog/2016/10/14/drivers-license/"/>
+    <updated>2016-10-14T23:22:00+09:00</updated>
+    <id>http://note.n6e.be/blog/2016/10/14/drivers-license</id>
+    <content type="html"><![CDATA[<p><img class="right" src="https://c1.staticflickr.com/1/355/30824144193_deed27acea_n.jpg">
+ねんがんの うんてんめんきょを てにいれたぞ。</p>
+
+<p>20年近く抱え込んでいたモヤモヤが解消された。<br/>
+そう、僕に必要なものは運転免許証だったんだ。</p>
+
+<!-- more -->
+
+
+<p>こと、日本においては、身分証明書のデファクトスタンダードとされている運転免許証。<br/>
+これがないばかりに様々な手続きで苦労をすることになる。<br/>
+携帯電話やクレジットカードの契約だったり、銀行口座の開設だったり、なんらかのイベントの入場だったり。</p>
+
+<p>いやさ、免許証以外でも身分証明可能ですけども、携帯電話の契約カウンターでパスポートを取り出す日本人などはほぼいないでしょう。<br/>
+保険証は写真がないのでだめだったりするし。</p>
+
+<p>まして住基カードは身分証明書として認めていない機関も多く、さらにマイナンバーカードを発行してしまうと住基カードは没収されてしまう。<br/>
+そのマイナンバーカードはと言えば、そもそも身分証明書として使用することを禁止されている。</p>
+
+<p>逆に免許証があれば、めんどうな手続きをスキップして口座を開設したり便利なこともある。</p>
+
+<p>というわけで、このような動機づけやその他のモチベーションもあり、2ヶ月足らずで運転免許証を取得することができた。<br/>
+効果測定や、試験の類は全て一発合格だったが、如何せん働きながらなので時間がかかってしまった。</p>
+
+<p>まぁ、教習所が家から近いというのが最大のモチベーション維持になったかもしれない。<br/>
+あとは電車でキャンプにいったらしんどかったので車欲しいみたいな強い意志もあった。<br/>
+そして鴻巣の免許センターは遠すぎてもう行きたくない。</p>
+
+<p>ともあれ、なんの障壁もなくすんなり取得できたのでよかったです。</p>
+
+<p>めでたしめでたし。</p>
+
+<p>続く。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[梅酒 DAY 1]]></title>
@@ -1253,53 +1294,6 @@ AppleTVもまぁ安いしAirPlayミラーリングとか面白いしホームシ
 もう一回くらい見てもいいかも。</p>
 
 <p><a href="http://wwws.warnerbros.co.jp/outrage2/">アウトレイジ ビヨンド公式</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[iPhone5 購入]]></title>
-    <link href="http://note.n6e.be/blog/2012/10/03/iphone5/"/>
-    <updated>2012-10-03T02:27:00+09:00</updated>
-    <id>http://note.n6e.be/blog/2012/10/03/iphone5</id>
-    <content type="html"><![CDATA[<p><img class="right" src="https://lh5.googleusercontent.com/-XzUB7CssnKw/UGsmquVL_6I/AAAAAAAAK1U/i4KGsQbY9ik/s288/IMGP0664.JPG">
-iPhone5に殺された者たちがいる。</p>
-
-<!-- more -->
-
-
-<p>ライトニングコネクタになり、既存のドック型周辺機器が死滅した。<br/>
-ライトニングコネクタになり、ドックコネクタを使用したストラップ製品も死滅した。<br/>
-イヤフォンジャックが下付きになり、にゃんこ型イヤフォンジャックカバーが死んだ。<br/>
-まぁ僕が持ってるのはドックステーションスピーカーだけですけども。</p>
-
-<p>Androidばっかり買っているのでiPhoneつかわないのかな？って思われがちだけど必要とあらばObj-Cだって書くくらいにはiPhone使います。<br/>
-iOSのエクスペリエンスは素晴らしいです。<br/>
-だけど技術者としての自由度が大変低くて面白くないのも事実(個人の印象です)。<br/>
-ただ、一つの型にハマっているので使いやすい端末なのは間違いないです。<br/>
-要するに良さのベクトルが違うと思うんです。</p>
-
-<p>そんなわけで iPhone5 買いましたし、LTEだー、わーって感じです。<br/>
-auでもよかったんだけど、すでにau3回線あるしそのうち一個をMNPしてSoftbankにしました。<br/>
-今のところ行動範囲でそこそこLTE使えてるしそこそこ速いし満足してます。</p>
-
-<p>ただ先ほど書いたように、YAMAHAのdockスピーカーTSX-70はごみになったのでどうしようかと思っている。<br/>
-代替の機械はAppleTVを発注したのでAVアンプにつないで音楽や動画流せればいいやなんだけど。</p>
-
-<p>まぁともかく今後持ち歩くのはモバイルSuica載ってるIS12SとiPhone5とNexus 7とイーモバイルのGP02ということになりそうです。</p>
-
-<iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=takuojp02-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B006KJCNXM" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-
-<iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=takuojp02-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B009A3MDWQ" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-
-<iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=takuojp02-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B008GDNFSW" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-
-<iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=takuojp02-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B008F45ECC" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-
-
 ]]></content>
   </entry>
   
