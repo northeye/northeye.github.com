@@ -37,7 +37,16 @@
 <link href='http://fonts.googleapis.com/css?family=Actor' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Patua+One' rel='stylesheet' type='text/css'>
 <link href="http://fonts.googleapis.com/css?family=Karla:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
+<script>
+$(document).bind('DOMNodeInserted', function(event) {
+  $('a[href^="http"]').each(
+    function(){
+      if (!$(this).attr('target')) {
+        $(this).attr('target', '_blank')
+      }
+  });
+});
+</script>
 
   
   <script type="text/javascript">
@@ -288,6 +297,10 @@ $( "#comment-tabs" ).tabs();
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2016/12/01/car-selection/">会社員、車を買う</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2016/10/14/drivers-license/">運転免許を取得したよ</a>
       </li>
     
@@ -301,10 +314,6 @@ $( "#comment-tabs" ).tabs();
     
       <li class="post">
         <a href="/blog/2016/01/24/anker-bluetooth-premium-speaker-a3143/">Anker プレミアムステレオスピーカー Bluetooth 4.0 (A3143)</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/08/24/qualcomm-izat-memory-leak/">Qualcomm IZat のメモリリーク</a>
       </li>
     
   </ul>

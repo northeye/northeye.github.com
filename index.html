@@ -10,8 +10,7 @@
 
   
   <meta name="description" content="
-ねんがんの うんてんめんきょを てにいれたぞ。 20年近く抱え込んでいたモヤモヤが解消された。
-そう、僕に必要なものは運転免許証だったんだ。 ">
+免許を取ってからというもの、車に乗りたくて仕方がない日々ですが皆さんいかがお過ごしでしょうか。 ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -37,7 +36,16 @@
 <link href='http://fonts.googleapis.com/css?family=Actor' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Patua+One' rel='stylesheet' type='text/css'>
 <link href="http://fonts.googleapis.com/css?family=Karla:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
+<script>
+$(document).bind('DOMNodeInserted', function(event) {
+  $('a[href^="http"]').each(
+    function(){
+      if (!$(this).attr('target')) {
+        $(this).attr('target', '_blank')
+      }
+  });
+});
+</script>
 
   
   <script type="text/javascript">
@@ -88,6 +96,48 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h2 class="entry-title"><a href="/blog/2016/12/01/car-selection/">会社員、車を買う</a></h2>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-12-01T22:32:00+09:00" pubdate data-updated="true">Dec 1<span>st</span>, 2016</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><img class="right" src="https://c1.staticflickr.com/1/598/30834238224_8d1bd3ec47_n.jpg">
+免許を取ってからというもの、車に乗りたくて仕方がない日々ですが皆さんいかがお過ごしでしょうか。</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2016/12/01/car-selection/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
   
   
     <article>
@@ -495,46 +545,6 @@ au版のXperia Z3ではこれを有効化できるのですが、どうやらメ
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h2 class="entry-title"><a href="/blog/2014/08/06/kinkyo/">近況</a></h2>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-08-06T17:54:00+09:00" pubdate data-updated="true">Aug 6<span>th</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>近況です。</p>
-
-<p>とくにネタもなかったので放っておいてましたが、最近わりとモノを買うようになったので買ったものレビューでもしていこうかと思います。</p>
-
-<p>以上です。</p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/2/">&larr; Older</a>
@@ -554,6 +564,10 @@ au版のXperia Z3ではこれを有効化できるのですが、どうやらメ
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2016/12/01/car-selection/">会社員、車を買う</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2016/10/14/drivers-license/">運転免許を取得したよ</a>
       </li>
     
@@ -567,10 +581,6 @@ au版のXperia Z3ではこれを有効化できるのですが、どうやらメ
     
       <li class="post">
         <a href="/blog/2016/01/24/anker-bluetooth-premium-speaker-a3143/">Anker プレミアムステレオスピーカー Bluetooth 4.0 (A3143)</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/08/24/qualcomm-izat-memory-leak/">Qualcomm IZat のメモリリーク</a>
       </li>
     
   </ul>
